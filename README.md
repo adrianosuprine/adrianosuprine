@@ -36,7 +36,7 @@ Cleaned a 7,000+ row retail orders dataset ready for analysis.
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/suprine-adriano-537983354/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2uPcKZPpSgS8logORdf2fA%3D%3D 
+- LinkedIn: https://www.linkedin.com/in/suprine-adriano-537983354 
 - Email: adrianosuprine@gmail.com
  
 <!--
