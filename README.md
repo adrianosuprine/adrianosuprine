@@ -30,13 +30,13 @@ Cleaned a 7,000+ row retail orders dataset ready for analysis.
   the decision for each
 - Kept the raw data untouched and worked on a separate clean table
 
-**Tools:** SQL, DBeaver · [View project →]((https://github.com/adrianosuprine/UrbanNest))
+**Tools:** SQL, DBeaver · [View project →] https://github.com/adrianosuprine/UrbanNest 
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: linkedin.com/in/suprine-adriano-537983354
+- LinkedIn: linkedin.com/in/suprine-adriano-537983354 
 - Email: adrianosuprine@gmail.com
  
 <!--
